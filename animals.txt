@@ -1,3 +1,6 @@
 zebra
 monkey
 snake
+cat
+dog
+bird
