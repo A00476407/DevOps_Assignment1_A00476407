@@ -1,3 +1,5 @@
 Tiger
 Lion
 Zebra
+duck
+racoon
